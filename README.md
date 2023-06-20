@@ -33,5 +33,6 @@ This is a movie rating website developed using PHP and MySQL. The website allows
 
 ## Tools used 
 
-Visual Studio
-XAMPP
+_ Visual Studio
+
+_ XAMPP
